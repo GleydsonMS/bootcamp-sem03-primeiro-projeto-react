@@ -8,15 +8,19 @@ do github, listar eles na página e visualizar os detalhes de cada um.
 ## Ferramentas utilizadas
 
 **React**
+
 Biblioteca para construção das interfaces.
 
 **Typescript**
+
 Linguagem de programação.
 
 **eslint**
+
 Ferramenta para padronização do código.
 
 **prettier**
+
 Ferramenta para formatação do código.
 
 ## Instruções para execução
