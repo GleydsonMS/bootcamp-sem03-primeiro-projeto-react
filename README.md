@@ -2,8 +2,8 @@
 
 ## Descrição
 
-Aplicação web desenvolvida utilizando react. Tem por objetivo explorar repositórios
-do github listando eles na página e visualizar os detalhes de cada um.
+Aplicação web desenvolvida utilizando React. Tem por objetivo explorar repositórios
+do github, listar eles na página e visualizar os detalhes de cada um.
 
 ## Ferramentas utilizadas
 
