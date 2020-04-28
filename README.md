@@ -1,7 +1,5 @@
 ![](/src/assets/logo.svg)
 
-# Github explorer
-
 ## Descrição
 
 Aplicação web desenvolvida utilizando react. Tem por objetivo explorar repositórios
